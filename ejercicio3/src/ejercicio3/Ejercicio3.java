@@ -22,7 +22,7 @@ package ejercicio3;
 	        for(int i=my_array.length; i < Index_position; i++){
 	            my_array[i] = my_array[i];
 	        }
-	        my_array[Index_position-1] = newValue;
+	        my_array[Index_position] = newValue;
 	        System.out.println("New Array: "+Arrays.toString(my_array));
 	    }
 	}
