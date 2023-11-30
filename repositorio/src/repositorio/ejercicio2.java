@@ -1,8 +1,7 @@
 package repositorio;
 
-public class Principal {
 
-	public class Ejercicio2 {
+	public class ejercicio2 {
 		  public static boolean contains(int[] arr, int item) {
 		      for (int n : arr) {
 		         if (item != n) {
@@ -20,4 +19,24 @@ public class Principal {
 		      System.out.println(contains(my_array1, 2015));
 		   }
 		}
-}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
